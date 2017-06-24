@@ -1,0 +1,10 @@
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\bin\Debug\RulesEngineTest.dll.config
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\bin\Debug\RulesEngineTest.dll
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\bin\Debug\RulesEngineTest.pdb
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\bin\Debug\nunit.framework.dll
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\bin\Debug\RulesEngine.exe
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\bin\Debug\RulesEngine.pdb
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\bin\Debug\nunit.framework.xml
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\obj\Debug\RulesEngineTest.csprojResolveAssemblyReference.cache
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\obj\Debug\RulesEngineTest.dll
+C:\D\New_folder\personal\RulesEngine\RulesEngineTest\obj\Debug\RulesEngineTest.pdb

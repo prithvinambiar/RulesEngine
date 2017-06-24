@@ -1,0 +1,6 @@
+C:\D\New_folder\personal\RulesEngine\RulesEngine\bin\Debug\RulesEngine.exe.config
+C:\D\New_folder\personal\RulesEngine\RulesEngine\bin\Debug\RulesEngine.exe
+C:\D\New_folder\personal\RulesEngine\RulesEngine\bin\Debug\RulesEngine.pdb
+C:\D\New_folder\personal\RulesEngine\RulesEngine\obj\Debug\RulesEngine.csprojResolveAssemblyReference.cache
+C:\D\New_folder\personal\RulesEngine\RulesEngine\obj\Debug\RulesEngine.exe
+C:\D\New_folder\personal\RulesEngine\RulesEngine\obj\Debug\RulesEngine.pdb
